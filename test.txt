@@ -3,7 +3,5 @@ this is test 1
 made some (conflicting maube?) changes
 made some changes from GitHub! (tfis is the correct way!)
 
-<<<<<<< HEAD
-=======
 dev branch has new stuff here
->>>>>>> dev
+changes from maste branch
